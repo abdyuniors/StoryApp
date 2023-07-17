@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="welcome_title">Hello You</string>
+    <string name="welcome_subtitle">
+        Welcome to StoryApp, the best place to read and write stories.
+    </string>
+    <string name="greeting">Hello %s</string>
+    <string name="illustration_image">Illustration Image</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="login_title">Login to app</string>
+    <string name="login_subtitle">
+       <font color="#1C6E8C"><b>Login</b></font> if you already have an account.
+    </string>
+    <string name="register_title">Create an account</string>
+    <string name="register_subtitle">
+       <font color="#1C6E8C"><b>Register</b></font> to get started with the app.
+    </string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="profile">Profile</string>
+    <string name="created_date">Created_at</string>
+    <string name="logout">Logout</string>
+    <string name="btn_add">Button Add</string>
+    <string name="camera_x">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="createdAt">Posted at DD MM YY</string>
+    <string name="logout_message_dialog">Are you sure want to log out?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="title_activity_maps">Maps</string>
+    <string name="map">Maps</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Retry</string>
+</resources>
